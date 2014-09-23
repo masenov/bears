@@ -13,4 +13,5 @@
 **Video:
 **
 
-![Screenshot from 2014-09-23 08:06:58.png](https://bitbucket.org/repo/6okyXX/images/4273938198-Screenshot%20from%202014-09-23%2008:06:58.png)
+(Clicking on the link will redirect you to YouTube)
+[![Video.png](https://bitbucket.org/repo/6okyXX/images/328059847-Video.png)](http://youtu.be/3yWIXbji96g)
